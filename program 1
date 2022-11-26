@@ -1,0 +1,11 @@
+#BITWISE AND OR AND XOR
+a=15
+b=20
+print(a&b)
+print(a|b)
+print(a^b)
+OUTPUT:
+======================================================= RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/h1.py ======================================================
+4
+31
+27
